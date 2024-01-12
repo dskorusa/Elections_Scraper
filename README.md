@@ -15,3 +15,4 @@ Pro spuštění skriptu jsou nutné dva argumenty. Jedná se o odkaz na webovou 
 Vzor spuštění: python projekt_3.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103' vysledky_prostejov.csv
 
 
+
